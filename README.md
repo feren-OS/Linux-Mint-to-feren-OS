@@ -2,7 +2,7 @@
 A unique conversion tool to convert Linux Mint 18 into feren OS
 
 <h2>How to use it:</h2>
-1. Download the tool by going to this address: https://drive.google.com/open?id=0B6gF35ZZCULwMTFaaF9zNU82c00
+1. Download the tool by going to this address: Soon...
 2. Extract the archive
 3. Open the extracted folder
 4. Open the folder in Terminal
