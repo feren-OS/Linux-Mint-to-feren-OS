@@ -6,7 +6,16 @@ A unique conversion tool to convert Linux Mint 18 into feren OS (Work in progres
 1. Download the tool by going to this address: https://drive.google.com/open?id=0B6gF35ZZCULwTG54TGlfWm1xVms
 2. Extract the archive
 3. Open the extracted folder
-4. Open the folder in Terminal
+4. Open the folder in Terminal **(this part is important, otherwise the script won't work)**
 5. Run this command `sudo bash "./Convert to feren OS.sh"`
 6. Accept the prompt
-7. Let it install, then, when prompted, decide whether you want your user to have default settings...
+7. Let it install
+
+<h2>User Defaults</h2>
+If you want the user your using to have their settings reset to the feren OS Defaults post-conversion, follow these instructions.
+8. Go to the folder of the script
+There's two ways this can go:
+Way 1:
+9. Mark the file as executable in Properties, then just 'Run' it
+Way 2:
+9. Open the folder in Terminal, then type in `bash 'User Defaults.sh'` and watch it go.
