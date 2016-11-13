@@ -20,8 +20,8 @@ There's two ways this can go:
 
 Way 1:
 
-9. Mark the file as executable in Properties, then just 'Run' it
+Mark the file as executable in Properties, then just 'Run' it
 
 Way 2:
 
-9. Open the folder in Terminal, then type in `bash 'User Defaults.sh'` and watch it go.
+Open the folder in Terminal, then type in `bash 'User Defaults.sh'` and watch it go.
