@@ -14,7 +14,7 @@ A unique conversion tool to convert Linux Mint 18 into feren OS (Work in progres
 <h2>User Defaults</h2>
 If you want the user your using to have their settings reset to the feren OS Defaults post-conversion, follow these instructions.
 
-8. Go to the folder of the script
+Firstly, go to the folder of the script
 
 There's two ways this can go:
 
