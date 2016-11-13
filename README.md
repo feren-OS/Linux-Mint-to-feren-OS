@@ -4,7 +4,7 @@ A unique conversion tool to convert Linux Mint 18 into feren OS (Work in progres
 
 <h2>How to use it:</h2>
 1. Download the tool by going to this address: https://drive.google.com/open?id=0B6gF35ZZCULwTG54TGlfWm1xVms
-2. Extract the archive with `tar -xvzf TARGZ_FILE_HERE` on a Terminal window (ignore the error if that happens)
+2. Extract the archive with `tar -xvzf TARGZ_FILE_HERE` on a Terminal window (ignore 'exiting on failure status' if that happens)
 3. Open the extracted folder
 4. Open the folder in Terminal **(this part is important, otherwise the script won't work)**
 5. Run this command `sudo bash "./Convert to feren OS.sh"`
