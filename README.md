@@ -1,6 +1,5 @@
 # Linux Mint to feren OS
 A unique conversion tool to convert Linux Mint 18 into feren OS (Version 2016.2)
-<h3>Warning: This is under testing and may brick your user. Test in a VM first!</h3>
 
 <h2>How to use it:</h2>
 1. Download the tool by going to this address: https://drive.google.com/open?id=0B6gF35ZZCULwTG54TGlfWm1xVms
