@@ -14,6 +14,8 @@ A unique conversion tool to convert Linux Mint 18 into feren OS (Version 2017.0 
 
 6. Run this command `sudo bash "./Convert to feren OS.sh"
 
+**NOTE: If you're having issues with the Mouse after running this, reinstall Linux Mint, and then try running the script with this: "./Convert to feren OS.sh no-uninstalls"
+
 7. Accept the prompt
 
 8. Let it install (get a cuppa, this will take a while)
